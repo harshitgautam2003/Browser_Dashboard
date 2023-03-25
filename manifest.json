@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name":"Personal Dashboard",
+    "version":"1.0.0",
+    "description":"Personal project on JS",
+    "action":{
+        "default_icon":"dashboard-65.png"
+    },
+    "chrome_url_overrides":{
+        "newLab":"index.html"
+    }
+}
